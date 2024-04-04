@@ -92,17 +92,19 @@ body{
 }
 
 
-.account_btn{
-
+.account_btn {
   background-color: #36a420;
-    border-color: #36a420;
-    border:none;
-    border-radius: 6px;
-    font-size: 17px;
-    line-height: 48px;
-    padding: 0 16px;
-    display: flex;
-   justify-content: center;
-   color: #fff;
+  border-color: #36a420;
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  line-height: 48px;
+  padding: 0 16px;
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  margin: 0 auto; /* Add this line */
+  width: 192px; /* Adjust the width if needed */
 }
+
 
