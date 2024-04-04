@@ -1,0 +1,108 @@
+body{
+  background-color: #F0F2F5;
+}
+
+
+.p-head {
+  font-size: 50px;
+  line-height: 50px;
+  margin: 0px;
+}
+
+.fb_heading {
+  margin: 0px;
+  color: #1c1e21;
+}
+
+.heading_div{
+
+  display: flex;
+  justify-content: center;
+}
+
+.para_heading{
+
+  display: flex;
+  justify-content: center;
+}
+
+.main_div {
+  border-radius: 18px;
+  background: #e0e0e0;
+  box-shadow:  22px 22px 55px #b5b5b5,
+               -22px -22px 55px #ffffff;
+  background-color: white;
+  border-radius: 8px;
+  margin: 40px 0 0;
+    padding: 20px 0 28px;
+  height:315px;
+  width:396px;
+  position: relative;
+  
+}
+
+.page{
+  position:absolute;
+  left:900px;
+}
+
+
+.child{
+
+  display:flex;
+  flex-direction: row;
+}
+
+.textbox{
+  border-radius: 6px;
+  width:330px;
+  padding: 14px 16px;
+  background: #FFFFFF url(/rsrc.php/v3/yU/r/O7nelmd9XSI.png) repeat-x;
+    border: 1px solid #dddfe2;
+    height: 22px;
+    line-height:16px;
+    vertical-align: middle;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.login_button{
+  background-color: #1877f2;
+  border-color: #365899;
+  border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 364px;
+    height: 48px;
+    color: #fff;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+
+.forgot{
+  display: flex;
+  justify-content: center;
+  color: #0866ff;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.account_btn{
+
+  background-color: #36a420;
+    border-color: #36a420;
+    border:none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    display: flex;
+   justify-content: center;
+   color: #fff;
+}
+
