@@ -1,5 +1,4 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import Header from "./heading";
@@ -9,7 +8,7 @@ import Page from "./page"
 function App() {
   return (
     <div>
-      <div class="child">
+      <div className="child">
       <Header />
       <Form />
       </div>
